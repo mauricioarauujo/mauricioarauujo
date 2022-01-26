@@ -2,7 +2,7 @@
 I am graduating in Electrical Engineering with emphasis on Computer Systems at Universidade do Estado do Rio de Janeiro (UERJ). I also use a lot of digital platforms (DataCamp, Alura, Udemy, etc.) to always be improving and updating my knowledge.
 
 - 📊 Actually I am data science intern at <a href = https://portal.ipiranga/wps/portal/ipiranga/inicio>Ipiranga</a> where I am developing several important skills for the job market.
-- 🌎 I also participate as a voluntary member within the IEEE UERJ where I am in the Robotics and Automation chapter and in the Computing chapter. I am also a member of the UERJBOTZ computing team. In all three groups I am part of projects that involve automation, artificial intelligence, data science and computer vision.
+- 🌎 I also participate as a voluntary member within the IEEE UERJ where I am in the Robotics and Automation chapter and in the Computing chapter. In these groups I am part of projects that involve automation, artificial intelligence, data science and computer vision.
 - 💰 Another area of interest to me is Blockchain, Smart Contracts and Cryptocurrencies, where I am developing some personal projects to develop myself in this very promising area.
 - 💬 Ask me about anything [here](https://github.com/mauricioarauujo/mauricioarauujo/issues)
  <div>
