@@ -2,7 +2,7 @@
 
 Data Scientist/Machine Learning Engineer specialized in Machine Learning and MLOps. I contribute to data science projects at Ipiranga, one of Brazil's leading fuel distribution companies.
 
-- 📊 Actually I am data scientist at <a href = https://portal.ipiranga/wps/portal/ipiranga/inicio>Ipiranga</a>.
+- 📊 Actually I am machine learning engineer at <a href = https://portal.ipiranga/wps/portal/ipiranga/inicio>Ipiranga</a>.
 - 🌎 I also participated as a voluntary member within the IEEE UERJ where I was in the Robotics and Automation chapter and in the Computing chapter. In these groups I was part of projects that involved automation, artificial intelligence, data science and computer vision.
 - 💰 Another area of interest to me is Blockchain, Smart Contracts and Cryptocurrencies, where I am developing some personal projects to develop myself in this very promising area.
 - 💬 Ask me about anything [here](https://github.com/mauricioarauujo/mauricioarauujo/issues)
