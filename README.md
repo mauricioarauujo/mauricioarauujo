@@ -2,7 +2,7 @@
 
 Machine Learning Engineer/Data Scientist specialized in Machine Learning, Deep Learning and MLOps.
 
-- 📊 Actually I am AI/ML Engineer at Boost IT.
+- 📊 Actually I am Senior AI/Data Engineer at tb.lx by Daimler Truck (contracted by Boost IT).
 - 🌎 I also participated as a voluntary member within the IEEE UERJ where I was in the Robotics and Automation chapter and in the Computing chapter. In these groups I was part of projects that involved automation, artificial intelligence, data science and computer vision.
 - 💰 Another area of interest to me is Blockchain, Smart Contracts and Cryptocurrencies, where I am developing some personal projects to develop myself in this very promising area.
 - 💬 Ask me about anything [here](https://github.com/mauricioarauujo/mauricioarauujo/issues)
